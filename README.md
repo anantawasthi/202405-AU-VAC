@@ -24,7 +24,9 @@
 
 1. **Data Management with Pandas**
 
-2. **Data Pre-Processing**
+2. **Working with Dates with datetime**
+
+3. **Data Pre-Processing**
    
    1. ***Data Cleaning***
       
@@ -54,7 +56,7 @@
       
       3. Cluster Sampling
 
-3. **Machine Learning**
+4. **Machine Learning**
    
    1. ***Model Validation Methodologies***
       
@@ -104,9 +106,11 @@
       
       5. *Fairness in AI*
 
-4. Processing Large Dataset with PySpark
+5. Introduction to Natural Language Processing
 
-5. Developing Machine Learning Models on large datasets with MLlib 
+6. Processing Large Dataset with PySpark
+
+7. Developing Machine Learning Models on large datasets with MLlib 
 
 ---
 
